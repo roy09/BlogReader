@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="friends">
+        <item>Aquib</item>
+        <item>Jyoti</item>
+        <item>Tonny</item>
+        <item>Raihan</item>
+        <item>Shuvo</item>
+    </string-array>
+
+    <string name="no_items">No itesm to display! :/</string>
+    <string name="error_title">Oops! Sorry</string>
+    <string name="error_message">There was an error getting data from the blog</string>
+    <string name="title_activity_blog_web_view">Blog Post</string>
+
+</resources>
