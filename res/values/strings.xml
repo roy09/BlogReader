@@ -17,5 +17,8 @@
     <string name="error_title">Oops! Sorry</string>
     <string name="error_message">There was an error getting data from the blog</string>
     <string name="title_activity_blog_web_view">Blog Post</string>
+    <string name="title_activity_blog_web_view2">BlogWebView2</string>
+    <string name="action_share">Share</string>
+    <string name="share_chooser_title">How do you want to sahre?</string>
 
 </resources>

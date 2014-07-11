@@ -29,6 +29,10 @@
             android:name="info.j4kx.blogreader.BlogWebViewActivity"
             android:label="@string/title_activity_blog_web_view" >
         </activity>
+        <activity
+            android:name="info.j4kx.blogreader.BlogWebView2"
+            android:label="@string/title_activity_blog_web_view2" >
+        </activity>
     </application>
 
 </manifest>
